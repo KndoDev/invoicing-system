@@ -17,7 +17,7 @@ Nestjs/typescript/postgres
 
 1. Clone project
    ```
-   $ git clone ...
+   $ git clone https://github.com/KndoDev/invoicing-system.git
    $ cd invoicing-system
    ```
 2. Install dependencies
